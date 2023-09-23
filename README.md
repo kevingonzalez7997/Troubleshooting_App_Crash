@@ -39,3 +39,7 @@ To minimize the risk of similar incidents in the future, we recommend implementi
 
 - Branching Strategy: Enforce a branching strategy where developers make changes in separate branches rather than directly to the main branch. This with a combination of permission to the main branch can eliminate incorrect code being merged by the wrong personnel. 
 
+## conclusion 
+
+The incident was fully resolved. Following the code adjustment and redeployment, all tests returned functional. Normal site operation was restored and in addition, preventive Measures have been placed to ensure this incident is not reoccurring.
+
